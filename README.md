@@ -1,2 +1,3 @@
 # clg
 goal
+ambition
